@@ -8,17 +8,17 @@
 
 **How cool Github thinks I am...**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&no_title=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 
 swipe right for sure :wink:
 
 **This week I melted my brain on...**
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&no_title=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 
 **On this corner of the internet you'll find stuff like...**
 
-![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true&no_title=true)
+![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true)
 
 
 
