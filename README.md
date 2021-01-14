@@ -1,6 +1,6 @@
 
-# नमस्ते (Namaste), I am [Abhishek Bapna](https://github.com/LuciFR1809)
-  <h2>**~~Surfing~~ _Parsing_ The ~~Waves🌊~~ _Scripts_🖥️**</h2>
+## नमस्ते (Namaste), I am [Abhishek Bapna](https://github.com/LuciFR1809)
+  ### **~~Surfing~~ _Parsing_ The ~~Waves🌊~~ _Scripts_🖥️**
 
 `Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
 
@@ -10,17 +10,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
 
 
-**How cool Github thinks I am...**
+#### **How cool Github thinks I am...**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 
 swipe right for sure :wink:
 
-**This week I melted my brain on...**
+#### **This week I melted my brain on...**
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 
-**On this corner of the internet you'll find stuff like...**
+#### **On this corner of the internet you'll find stuff like...**
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true)
 
