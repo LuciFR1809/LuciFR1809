@@ -20,6 +20,8 @@ swipe right for sure :wink:
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true)
 
+_Vibing on..._
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Lucifr1809)
 
 
 
