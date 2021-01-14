@@ -6,6 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek_bapna-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-bapna-367204126/)](https://www.linkedin.com/in/abhishek-bapna-367204126/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
 
+Judge me [here](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)(**RESUME**)
+
 **How cool Github thinks I am...**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
@@ -19,6 +21,8 @@ swipe right for sure :wink:
 **On this corner of the internet you'll find stuff like...**
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true)
+
+
 
 _Vibing on..._
 
