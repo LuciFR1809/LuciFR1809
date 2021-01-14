@@ -1,6 +1,6 @@
 
-## नमस्ते (Namaste), I am [Abhishek Bapna](https://github.com/LuciFR1809)
-  ### **~~Surfing~~ _Parsing_ The ~~Waves🌊~~ _Scripts_🖥️**
+# नमस्ते (Namaste), I am [Abhishek Bapna](https://github.com/LuciFR1809)
+  ### **~~Surfing~~ _Parsing_ The ~~Waves🌊~~ _Scripts_ 🖥️**
 
 `Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
 
