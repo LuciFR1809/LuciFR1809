@@ -2,7 +2,7 @@
 ## नमस्ते (Namaste), I am [Abhishek Bapna](https://github.com/LuciFR1809)
 **~~Surfing~~ _Parsing_ The ~~Waves🌊~~ _Scripts_🖥️**
 
-`Judge me here-->[(**RESUME**)]`(https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
+`Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
 
 [![Instagram Badge](https://img.shields.io/badge/-@the__all__baap-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/the_all_baap)](https://instagram.com/the_all_baap)
 [![Github Badge](https://img.shields.io/badge/-LuciFR1809-gray?style=flat-square&labelColor=gray&logo=github&logoColor=white&link=https://github.com/LuciFR1809)](https://github.com/LuciFR1809)
