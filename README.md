@@ -18,7 +18,7 @@ swipe right for sure :wink:
 
 #### **This week I melted my brain on...**
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2)
 
 #### **On this corner of the internet you'll find stuff like...**
 
