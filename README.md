@@ -22,4 +22,5 @@ _Vibing on..._
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <a href="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
