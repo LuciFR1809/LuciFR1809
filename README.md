@@ -9,6 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 #### **How cool Github thinks I am...**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)  <a font-size=20>swipe right for sure :wink:</a>
@@ -19,7 +20,8 @@
 #### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide=scss&hide_border=true)
 
-_Vibing on..._ 
+_Vibing on..._
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
