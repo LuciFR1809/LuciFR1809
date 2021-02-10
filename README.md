@@ -10,6 +10,7 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 #### **How cool Github thinks I am...**
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)  <a font-size=20>swipe right for sure :wink:</a>
 
 #### **This week I melted my brain on...**
