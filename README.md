@@ -1,6 +1,6 @@
 
 # नमस्ते! I'm [Abhishek Bapna](https://github.com/LuciFR1809)
-  ### ** _Parsing_ The _Scripts_ 🖥️ **
+  ### **_Parsing_ The _Scripts_ 🖥️**
   #### `Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
 
 [![Instagram Badge](https://img.shields.io/badge/-@the__all__baap-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/the_all_baap)](https://instagram.com/the_all_baap)
