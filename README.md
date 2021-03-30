@@ -11,8 +11,6 @@
 
 #### **How cool Github thinks I am...**
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)<a font-size=20>swipe right for sure :wink:</a>
-#### **On this corner of the internet you'll find stuff like...**
-![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
 
 #### **This week I melted my brain on...**
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2)
@@ -27,3 +25,6 @@ _Vibing on..._
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354)
  
+<!--#### **On this corner of the internet you'll find stuff like...**
+![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
+-->
