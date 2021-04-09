@@ -16,11 +16,9 @@
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2)
 ![Metrics](https://metrics.lecoq.io/LuciFR1809?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 ##### _Vibing on..._
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354)
- ###### 💾 EOF
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354)###### 💾 EOF
 <!--#### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
 -->
