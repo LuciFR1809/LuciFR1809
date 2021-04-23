@@ -14,8 +14,8 @@
 <img width="39%" height="200px" align="center" src="https://metrics.lecoq.io/LuciFR1809?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcuttae">
 </p>
 <p align=center>
-<img width="59%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
-<img width="59%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2">
+<img width="59%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+<img width="59%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2">
 </p>
 <a font-size=20>swipe right for sure :wink:</a>
 
