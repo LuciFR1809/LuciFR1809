@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td>![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
-<\td>
-    <td>![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)<a font-size=20>swipe <\td>
-  <\tr>
-<>table>
+</td>
+    <td>![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)<a font-size=20>swipe </td>
+  </tr>
+</table>
 right for sure :wink:</a>
 
 #### **This week I melted my brain on...**
