@@ -25,7 +25,7 @@
   <img width="39%" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default">
 <img width="59%" align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354">
 </p>
- <a align="center">💾 EOF</a>
+ <a padding="50%">💾 EOF</a>
 <!--#### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
 -->
