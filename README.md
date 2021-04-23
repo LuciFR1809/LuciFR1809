@@ -10,14 +10,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
 #### **How cool Github thinks I am...**
 <p align=center>
-<img width="59%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
+ <img width="59%" height=200px align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2">
 <img width="39%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
 </p>
-
-<p align=center>
-  <img width="59%" height=200px align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2">
 <img width="39%" height="200px" align="center" src="https://metrics.lecoq.io/LuciFR1809?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcuttae">
-</p>
 <a font-size=20></br>swipe right for sure :wink:</a>
 
 ##### _Vibing on..._
