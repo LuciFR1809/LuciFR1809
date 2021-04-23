@@ -12,7 +12,7 @@
 #### **How cool Github thinks I am...**
 <p align=center>
 <img width="60%" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
-<img width="40%" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+<img width="39%" height="175px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
 </p>
 
 <a font-size=20>swipe right for sure :wink:</a>
