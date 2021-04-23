@@ -8,23 +8,22 @@
 [![Github Badge](https://img.shields.io/badge/-LuciFR1809-gray?style=flat-square&labelColor=gray&logo=github&logoColor=white&link=https://github.com/LuciFR1809)](https://github.com/LuciFR1809)
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek_bapna-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-bapna-367204126/)](https://www.linkedin.com/in/abhishek-bapna-367204126/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
-
 #### **How cool Github thinks I am...**
 <p align=center>
-<img width="60%" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
-<img width="39.9999%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+<img width="59%" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
+<img width="39%" height="200px" align="center" src="https://metrics.lecoq.io/LuciFR1809?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcuttae">
 </p>
-
+<p align=center>
+<img width="49%" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2">
+<img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+</p>
 <a font-size=20>swipe right for sure :wink:</a>
 
-#### **This week I melted my brain on...**
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2)
-![Metrics](https://metrics.lecoq.io/LuciFR1809?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 ##### _Vibing on..._
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354) 💾 EOF
 <!--#### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 -->
+
