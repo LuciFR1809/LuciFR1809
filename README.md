@@ -11,11 +11,10 @@
 
 #### **How cool Github thinks I am...**
 <p align=center>
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+<img width="48%" height="10%" align="left" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
+<img width="48%" height="10%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
 </p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
-![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
+
 <a font-size=20>swipe right for sure :wink:</a>
 
 #### **This week I melted my brain on...**
@@ -27,4 +26,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354) 💾 EOF
 <!--#### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 -->
