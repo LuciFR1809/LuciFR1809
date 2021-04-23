@@ -12,7 +12,7 @@
 #### **How cool Github thinks I am...**
 <p align=center>
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true">
 </p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
