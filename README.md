@@ -10,13 +10,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
 
 #### **How cool Github thinks I am...**
-<table>
-  <tr>
-    <td>![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
-</td>
-    <td>![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)<a font-size=20>swipe </td>
-  </tr>
-</table>
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" />
+  </a>
+</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
+![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
+<a font-size=20>swipe 
 right for sure :wink:</a>
 
 #### **This week I melted my brain on...**
