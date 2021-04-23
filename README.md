@@ -11,17 +11,14 @@
 
 #### **How cool Github thinks I am...**
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true"/></a>
 </p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true)
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
-<a font-size=20>swipe 
-right for sure :wink:</a>
+<a font-size=20>swipe right for sure :wink:</a>
 
 #### **This week I melted my brain on...**
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciFR1809&theme=tokyonight&show_icons=true&hide_border=true&hide_title=true&v=2)
