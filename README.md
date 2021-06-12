@@ -20,10 +20,12 @@
   <img width="39%" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jr4q2mdwv3p7n77tdjk5zy997&cover_image=false&theme=default">
 <img width="59%" align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23181d2a&textColor=%23275ea3&aColor=%23a9b7cb&borderColor=%234b5354">
 </p>
+
 [![Instagram Badge](https://img.shields.io/badge/-@the__all__baap-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/the_all_baap/)](https://instagram.com/the_all_baap)
 [![Github Badge](https://img.shields.io/badge/-LuciFR1809-gray?style=flat-square&labelColor=gray&logo=github&logoColor=white&link=https://github.com/LuciFR1809)](https://github.com/LuciFR1809)
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek_bapna-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-bapna-367204126/)](https://www.linkedin.com/in/abhishek-bapna-367204126/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.r.bapna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.r.bapna@gmail.com)](mailto:abhishek.r.bapna@gmail.com)
+
  <a margin-left="50%">💾 EOF</a>
 <!--#### **On this corner of the internet you'll find stuff like...**
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFR1809&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)-->
