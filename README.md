@@ -2,7 +2,7 @@
 <a href="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=LuciFR1809.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 # नमस्ते! I'm [Abhishek Bapna](https://github.com/LuciFR1809)
   ## **_Parsing_ The _Scripts_ 🖥️**
-  ### `Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Abhishek_Bapna_Resume.pdf)
+  ### `Judge me here-->`[(**RESUME**)](https://github.com/LuciFR1809/LuciFR1809/blob/main/Resume-Abhishek.pdf)
 
 #### **How cool Github thinks I am...**
 <p align=left>
